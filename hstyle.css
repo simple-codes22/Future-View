@@ -1,6 +1,6 @@
 body {
     margin:0;
-    font-family: "Noto Sans JP";
+    font-family: "Noto Sans JP", sans-serif;
     background: url('./img/spacex-PIOgkhaF3WA-unsplash.jpg') no-repeat center fixed;
     background-size:cover;
     color:white
