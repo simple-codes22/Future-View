@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 body {
     margin:0;
     font-family: "Noto Sans JP", sans-serif;
@@ -184,3 +187,4 @@ footer {
 .scroll:hover > .scroll-icon {
     fill: rgba(77, 104, 99, 0.616);
 }
+
