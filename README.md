@@ -1,2 +1,2 @@
-#FutureView
-##A Simple generic website
+# FutureView
+
